@@ -1,4 +1,4 @@
-package org.geneation.excercises;
+package org.geneation.schoolSystem;
 
 import java.util.ArrayList;
 import java.util.HashMap;

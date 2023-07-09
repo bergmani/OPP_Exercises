@@ -1,4 +1,4 @@
-package org.geneation.excercises;
+package org.geneation.schoolSystem;
 
 
 public class Student {
