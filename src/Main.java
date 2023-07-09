@@ -1,8 +1,7 @@
-package com.generation;
+package org.geneation.excercises;
 
 public class Main {
-
-    public static void main(String[] args) {
+	public static void main(String[] args) {
 	    StudentService studentService = new StudentService();
 	    //TODO refactor this code to use encapsulation inside studentsService
         studentService.students.put( "1030", new Student( "Carlos", "1030", 31 ) );

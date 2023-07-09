@@ -1,4 +1,4 @@
-package com.generation;
+package org.geneation.excercises;
 
 public class StudentNotFoundException
     extends Exception

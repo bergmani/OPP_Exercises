@@ -1,12 +1,11 @@
-package com.generation;
+package org.geneation.excercises;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class StudentService
-{
-    HashMap<String, Course> courseList = new HashMap<>();
+public class StudentService {
+	HashMap<String, Course> courseList = new HashMap<>();
 
     HashMap<String, Student> students = new HashMap<>();
 
